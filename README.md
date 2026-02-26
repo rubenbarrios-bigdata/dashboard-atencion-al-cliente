@@ -60,7 +60,6 @@ El informe está diseñado con enfoque ejecutivo para facilitar la toma de decis
 - Power BI Desktop
 - Power BI Service
 - Modelado de datos
-- DAX (Data Analysis Expressions)
 - Diseño de visualizaciones ejecutivas
 - Storytelling con datos
 
