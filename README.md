@@ -28,7 +28,6 @@ El informe está diseñado con enfoque ejecutivo para facilitar la toma de decis
 | Indicador | Valor |
 |-----------|--------|
 | Asistencias Totales | 1009 |
-| Tasa de Resolución | 92,67% |
 | Tiempo Promedio de Atención | 67 |
 | Promedio Diario | 3,40 |
 
