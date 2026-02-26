@@ -122,6 +122,7 @@ Este tipo de análisis es útil para:
 
 **Ruben Barrios**  
 Proyecto desarrollado como parte de portafolio profesional en análisis de datos y Business Intelligence.
+
 Fuente de los datos: 
 Acedamia Daxus Latam.
 
