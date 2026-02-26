@@ -28,8 +28,8 @@ El informe está diseñado con enfoque ejecutivo para facilitar la toma de decis
 | Indicador | Valor |
 |-----------|--------|
 | Asistencias Totales | 1009 |
-| Promedio Diario | 3,40 |
-| Tiempo Promedio de Atención | 67 |
+| Satisfacción Promedio | 3,40 |
+| Tiempo de Espera | 67 |
 
 
 ---
