@@ -121,10 +121,10 @@ Este tipo de análisis es útil para:
 ## 👤 Autor
 
 **Ruben Barrios**  
-Proyecto desarrollado como parte de portafolio profesional en análisis de datos y Business Intelligence.
+Proyecto práctico desarrollado como parte de portafolio profesional en análisis de datos y Business Intelligence.
 
 Fuente de los datos: 
-Acedamia Daxus Latam.
+Acadamia Daxus Latam.
 
 ---
 
