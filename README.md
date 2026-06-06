@@ -2,6 +2,10 @@
 
 https://app.powerbi.com/groups/me/reports/e5f4d170-060a-441e-85c2-a4fe4cb483ab/79dcbe5eead5b952c731?redirectedFromSignup=1&experience=power-bi
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Status](https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge)
+
 ---
 
 ## 📌 Descripción del Proyecto
