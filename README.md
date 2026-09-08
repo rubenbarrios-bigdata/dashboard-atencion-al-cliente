@@ -1,10 +1,11 @@
 # 📊 Dashboard Atención Al Cliente – Power BI
 
-https://app.powerbi.com/groups/me/reports/e5f4d170-060a-441e-85c2-a4fe4cb483ab/79dcbe5eead5b952c731?redirectedFromSignup=1&experience=power-bi
+[![Ver Dashboard Interactivo](https://img.shields.io/badge/Power_BI-Ver_Dashboard_Interactivo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiM2JlOTkzNzYtYzhkZS00NWJiLWExMDgtMDVlMTU5NGU1MmIyIiwidCI6IjgxY2NjYzQzLWI1NjEtNDFmNy05NDgwLWU5ZThmMDI3YzQ0MyIsImMiOjR9)
+[![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/rubenbarrios-bigdata)
+[![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge)](https://github.com/rubenbarrios-bigdata)
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Status](https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge)
+> 🚀 **¡Demo interactiva en vivo!** Haz clic en el botón superior **"Ver Dashboard Interactivo"** para navegar entre páginas, evaluar el desempeño operativo y aplicar filtros en tiempo real sin requerir cuenta de Microsoft ni instalar Power BI Desktop.
+
 
 ---
 
