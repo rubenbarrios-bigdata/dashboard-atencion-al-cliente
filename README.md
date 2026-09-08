@@ -60,6 +60,39 @@ El informe está diseñado con enfoque ejecutivo para facilitar la toma de decis
 
 ---
 
+---
+
+## 🧮 Medidas DAX Implementadas
+
+```dax
+-- Total de atenciones registradas
+Total Atenciones = 
+COUNTROWS('Base de Llamadas')
+
+-- Porcentaje de atenciones con calificación de alta satisfacción (> 4)
+% Satisfacción > 4 = 
+DIVIDE(
+    COUNTROWS(FILTER('Base de Llamadas', 'Base de Llamadas'[Índice de satisfacción] > 4)),
+    COUNTROWS('Base de Llamadas')
+)
+
+-- Tiempo promedio de espera evaluado dinámicamente por área operativa
+Promedio Tiempo de Espera por Área = 
+AVERAGEX(
+    VALUES('Base de Llamadas'[Área]),
+    CALCULATE(AVERAGE('Base de Llamadas'[Velocidad de respuesta]))
+)
+
+-- Inteligencia de tiempo: cálculo comparativo contra el mes anterior
+Atenciones Mes Anterior = 
+CALCULATE(
+    [Total Atenciones],
+    DATEADD('Base de Llamadas'[Fecha], -1, MONTH)
+)
+```
+
+---
+
 ## 🛠 Herramientas y Tecnologías Utilizadas
 
 - Power BI Desktop
